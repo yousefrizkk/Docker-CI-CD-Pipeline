@@ -133,4 +133,4 @@ Scalable and production-ready.
 
 ## CI/CD Pipeline Overview
 
-![CI/CD Pipeline](img\Docker-CICD-Pipeline.png)
+![CI/CD Pipeline](img/Docker-CICD-Pipeline.png)
